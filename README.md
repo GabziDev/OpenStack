@@ -6,7 +6,7 @@
 ## BASE
 #### Création paire de clés
 > `openstack keypair create NOM_KEYPAIR > NOM_KEYPAIR`
-<br>
+<br></br>
 > `chmod 600 ~/.ssh/NOM_KEYPAIR`
 
 #### Création instance
@@ -34,7 +34,7 @@ OpenStack Swift est un service de stockage d'objets d'OpenStack qui permet de g�
 
 #### Vérifier la création
 > `openstack container list`
-<br>
+<br></br>
 > `openstack container show NOM_CONTAINER`
 
 #### Configuration ACL (Access Control List) en accèss public lecture seul
