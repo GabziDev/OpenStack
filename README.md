@@ -1,7 +1,8 @@
 # Commandes de base d'OpenStack V1
 
 > [!IMPORTANT]
-> Sourcer le fichier OpenStack RC avant de commencer.
+> Sourcer le fichier OpenStack RC avant de commencer :
+> `source FICHIER_OPENSTACK_RC.sh`
 
 ## BASE
 #### Création paire de clés
